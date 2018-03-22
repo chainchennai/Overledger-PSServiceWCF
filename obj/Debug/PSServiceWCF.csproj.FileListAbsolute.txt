@@ -1,0 +1,11 @@
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\PSServiceWCF.dll.config
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\PSServiceWCF.dll
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\PSServiceWCF.pdb
+F:\Development\PS\PSSolution\PSServiceWCF\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\PS\PSSolution\PSServiceWCF\obj\Debug\PSServiceWCF.dll
+F:\Development\PS\PSSolution\PSServiceWCF\obj\Debug\PSServiceWCF.pdb
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\PSData.dll
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\log4net.dll
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\Util.dll
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\PSData.pdb
+F:\Development\PS\PSSolution\PSServiceWCF\bin\Debug\Util.pdb
